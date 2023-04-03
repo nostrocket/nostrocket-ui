@@ -2,7 +2,7 @@
 Problem: there is no frontend for nostrocket
 
 ## Solution
-Build: client components for reusability using the Flamewerk template.
+Build: client components for reusability using React.
 
 ### Getting started
 
