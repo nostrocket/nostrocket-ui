@@ -28,7 +28,7 @@ function App(): JSX.Element {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/nostrocket-ui" element={<Home />} />
         </Routes>
       </BrowserRouter>
     </>
