@@ -10,8 +10,13 @@
     "lint": "prettier --write './**/*.{js,jsx,ts,tsx}' --config ./.prettierrc && eslint \"src/**\" --fix"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.17",
+    "@tailwindcss/forms": "^0.5.3",
+    "nostr-tools": "^1.8.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
